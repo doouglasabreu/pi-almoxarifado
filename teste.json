@@ -5,14 +5,14 @@ descricao: "ADAPTADOR DISPLAYPORT PARA VGA PLUG AND PLAY DEVE PERMITIR CONECTAR 
 status: "ABERTO",
 quantidade: 6,
 justificativa: "Para aula",
-data: null,
+data: 05/05/2019,
 usuario_id: 1,
 usuario: {
 id: 1,
 nome: "Douglas",
 senha: "123",
 adm: true,
-data: null
+data: 21/03/1992
 }
 },
 {
@@ -21,14 +21,31 @@ descricao: "53859-ALICATE DE INSERÇÃO. PUNCH DOWN : FERRAMENTA DE IMPACTO DEVE
 status: "ABERTO",
 quantidade: 7,
 justificativa: "para uso pessoal",
-data: null,
+data: 05/05/2017,
 usuario_id: 1,
 usuario: {
 id: 1,
 nome: "Douglas",
 senha: "123",
 adm: true,
-data: null
+data: 21/03/1992
+}
+},
+{
+id: 3,
+descricao: "53439-Fone de ovido intra-auricular preto com formato de piroca",
+status: "ABERTO",
+quantidade: 10,
+justificativa: "para uso pessoal",
+data: 05/05/2017,
+usuario_id: 1,
+usuario: {
+id: 1,
+nome: "Daniel",
+senha: "456",
+adm: false,
+data: 21/03/1992
 }
 }
+  
 ]
