@@ -1,1 +1,35 @@
 
+[
+  {
+    "id": 1,
+    "descricao": "ADAPTADOR DISPLAYPORT PARA VGA PLUG AND PLAY DEVE PERMITIR CONECTAR UMA INTERFACE VGA DE UM MONITOR LCD, LED OU PLASMA, PROJETOR OU TELEVISORES FULLHD A UM MACBOOK OU UM PC EQUIPADO COM UM CONECTOR DISPLAYPORT. COMPATÍVEL COM QUALQUER EQUIPAMENTO QUE POSSUA SAÍDA DISPLAYPORT.",
+    "status": "ABERTO",
+    "quantidade": 6,
+    "justificativa": "Para aula",
+    "data": null,
+    "usuario_id": 1,
+    "usuario": {
+      "id": 1,
+      "nome": "Douglas",
+      "senha": "123",
+      "adm": true,
+      "data": null
+    }
+  },
+  {
+    "id": 2,
+    "descricao": "53859-ALICATE DE INSERÇÃO. PUNCH DOWN : FERRAMENTA DE IMPACTO DEVE POSSUIR AJUSTE DE PRESSÃO PARA INSERÇÃO E CORTE DE CABOS UTP EM CONECTORES FÊMEA RJ-11 E RJ-45 PATCH PANEL E BLOCOS TIPO 110.",
+    "status": "ABERTO",
+    "quantidade": 7,
+    "justificativa": "para uso pessoal",
+    "data": null,
+    "usuario_id": 1,
+    "usuario": {
+      "id": 1,
+      "nome": "Douglas",
+      "senha": "123",
+      "adm": true,
+      "data": null
+    }
+  }
+]
